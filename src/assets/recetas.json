@@ -1,0 +1,58 @@
+[
+    {
+        "nombre": "Tacos al Pastor",
+        "ingredientes": [
+            "carne de cerdo",
+            "piña",
+            "cilantro",
+            "cebolla",
+            "salsa"
+        ],
+        "tiempo_preparacion": "30 minutos"
+    },
+    {
+        "nombre": "Paella Valenciana",
+        "ingredientes": [
+            "arroz",
+            "pollo",
+            "conejo",
+            "judías verdes",
+            "garrofó",
+            "tomate"
+        ],
+        "tiempo_preparacion": "90 minutos"
+    },
+    {
+        "nombre": "Ramen",
+        "ingredientes": [
+            "caldo de pollo",
+            "salsa de soja",
+            "fideos",
+            "huevo",
+            "cebollín"
+        ],
+        "tiempo_preparacion": "45 minutos"
+    },
+    {
+        "nombre": "Pasta Carbonara",
+        "ingredientes": [
+            "pasta",
+            "huevos",
+            "queso pecorino",
+            "panceta",
+            "pimienta negra"
+        ],
+        "tiempo_preparacion": "20 minutos"
+    },
+    {
+        "nombre": "Ceviche Peruano",
+        "ingredientes": [
+            "pescado blanco",
+            "limón",
+            "cebolla morada",
+            "cilantro",
+            "ají"
+        ],
+        "tiempo_preparacion": "40 minutos"
+    }
+]
